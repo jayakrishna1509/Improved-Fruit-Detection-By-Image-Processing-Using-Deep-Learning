@@ -4,9 +4,10 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/yt_thumb.jpg">
+![Beechtown Organics](https://user-images.githubusercontent.com/74000137/232305895-2de87f02-d6cb-4b5e-bc34-43a07be40d1a.png)
 
-## Usage:-
+
+## Usage of the CMD Prompt:-
 
 - Clone my repository.
 - Open CMD in working directory.
@@ -24,11 +25,11 @@
   streamlit run Fruits_Vegetable_Classification.py
   ```
 
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
+- For more explanation of this project feel free to connect my profile.
 
-## Screenshots
+## Screenshots by Output Results!!!
 
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc1.PNG">
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc2.PNG">
+<img src="https://github.com/jayakrishna1509/Improved-Fruit-Detection-By-Image-Processing-Using-Deep-Learning/blob/main/sc1.PNG">
+<img src="https://github.com/jayakrishna1509/Improved-Fruit-Detection-By-Image-Processing-Using-Deep-Learning/blob/main/sc2.PNG">
 
 
