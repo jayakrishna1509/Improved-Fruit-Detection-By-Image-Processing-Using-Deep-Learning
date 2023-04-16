@@ -25,7 +25,7 @@
   streamlit run Fruits_Vegetable_Classification.py
   ```
 
-- For more explanation of this project feel free to connect my profile.
+- For more explanation of this project feel free to connect with my profile.
 
 ## Screenshots by Output Results!!!
 
